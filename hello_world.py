@@ -1,2 +1,2 @@
-#wahid Dawari
+#Wahid Dawari
 print("Hello World!")
